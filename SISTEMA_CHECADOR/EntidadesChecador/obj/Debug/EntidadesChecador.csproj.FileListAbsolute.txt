@@ -1,0 +1,5 @@
+C:\Users\The Dark Knight\source\repos\SISTEMA_CHECADOR\EntidadesChecador\bin\Debug\EntidadesChecador.dll
+C:\Users\The Dark Knight\source\repos\SISTEMA_CHECADOR\EntidadesChecador\bin\Debug\EntidadesChecador.pdb
+C:\Users\The Dark Knight\source\repos\SISTEMA_CHECADOR\EntidadesChecador\obj\Debug\EntidadesChecador.csprojAssemblyReference.cache
+C:\Users\The Dark Knight\source\repos\SISTEMA_CHECADOR\EntidadesChecador\obj\Debug\EntidadesChecador.dll
+C:\Users\The Dark Knight\source\repos\SISTEMA_CHECADOR\EntidadesChecador\obj\Debug\EntidadesChecador.pdb
